@@ -21,3 +21,4 @@ python -jupyter lab
 
 Y. Park and J. C. Ho. 2020. **CaliForest: Calibrated Random Forest for Health Data**. *ACM Conference on Health, Inference, and Learning (2020)*
 
+[CaliForest GitHub repo](https://github.com/yubin-park/califorest)
