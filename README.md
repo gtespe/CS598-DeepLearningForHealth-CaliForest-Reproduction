@@ -3,7 +3,19 @@ My reproduction of the [CaliForest](https://github.com/yubin-park/califorest) pa
 
 
 # Usage
-Download all_hourly_data.h5 from MIMIC_extract, and put it in the data folder.
+1. Download all_hourly_data.h5 from MIMIC_extract, and put it in the data folder.
+
+2. Install dependencies
+```
+python -m ensurepip
+pip install jupyterlab scikit-learn numpy pandas pprint matplotlib seaborn
+```
+
+3. Run Jupyter Lab and open one of the notebooks
+```
+python -jupyter lab
+```
+
 
 ## Reference
 
